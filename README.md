@@ -1,12 +1,12 @@
 # currency
 
-#include <iostream>
+#include <iostream.h>
 
-#include <iomanip>
+#include <iomanip.h>
 
 #include <conio.h>
 
-#include <string>
+#include <string.h>
 
  
 
